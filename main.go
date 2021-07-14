@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/charllossdev/kafka-go-gin-test/app"
+	"github.com/charllossdev/kafka-go-gin/app"
 	log "github.com/sirupsen/logrus"
 )
 
